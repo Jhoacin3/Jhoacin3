@@ -1,16 +1,19 @@
-### Hi there 👋
+### Console.WriteLine("Hello, Welcome to my perfil and i´m a student") :tw-1f44b:
 
-<!--
-**Jhoacin3/Jhoacin3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I´m a passionate web development student looking to learn and grow in the exciting world of web application development. My main focus is back-end web development.
 
-Here are some ideas to get you started:
+### Skills :tw-1f525:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming languages ​​(Basic): PHP and  C#.
+- Frameworks and tools: Laravel and  MySQL.
+
+
+####Contact :tw-1f517:
+- 📧 Email: [jhoacin21project@gmail.com]
+- 📸 Instagram: [@jhoacin_escolastico]
+  ###### I hope you enjoy exploring my profile and future projects on GitHub!
+
+  <p align="left">
+  <img src="https://github.com/Jhoacin3/Jhoacin3/assets/130729052/87606bcc-74be-4481-95a0-dd2ed2c6b7f9" alt="Descripción del GIF" width="200px">
+</p>
+
