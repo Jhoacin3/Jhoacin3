@@ -6,9 +6,7 @@
 
 - Programming languages ​​(Basic): PHP and  C#.
 - Frameworks and tools: Laravel and  MySQL.
-<p align="left">
-  <img src="https://github.com/Jhoacin3/Jhoacin3/assets/130729052/94cb9538-6e18-44bb-97d3-8910c7ff86b7" alt="Descripción del GIF" width="50px">
-</p>
+
 
 ### Contact 📌
 - 📧 Email: [jhoacin21project@gmail.com]
