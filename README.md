@@ -4,7 +4,7 @@
 
 ### Skills 🎯
 
-- Programming languages ​​(Basic): PHP and  C#.
+- Programming languages ​​(Basic): PHP and  JS.
 - Frameworks and tools: Laravel and  MySQL.
 
 
