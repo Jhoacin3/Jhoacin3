@@ -1,11 +1,11 @@
-### Console.WriteLine("Hello, Welcome to my perfil and i´m a student") 👋
+### Console.log("Hello, Welcome to my perfil and i´m a student") 👋
 
 - I´m a passionate web development student looking to learn and grow in the exciting world of web application development. My main focus is back-end web development.
 
 ### Skills 🎯
 
 - Programming languages ​​(Basic): PHP and  JS.
-- Frameworks and tools: Laravel and  MySQL.
+- Frameworks and tools: MySQL...
 
 
 ### Contact 📌
