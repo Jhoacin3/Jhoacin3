@@ -4,8 +4,8 @@
 
 ### Skills 🎯
 
-- Programming languages ​​(Basic): PHP and  JS.
-- Frameworks and tools: MySQL...
+- Programming languages ​​(Basic): PHP and  JS
+- Frameworks and tools: MySQL, Laravel 8, Bootstrap 5, Vue.JS, Git y Github (basic)
 
 
 ### Contact 📌
