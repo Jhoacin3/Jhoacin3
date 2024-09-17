@@ -9,10 +9,9 @@
   
 - Frameworks:  Laravel 8, Node.js, Express.js, Bootstrap 5, Vue.JS.
   
-- IDEs and Tolls: Git, GitHub, GitLab, Trello.
- MySQL Workbench, Studio 3T, Android Studio, Visual Studio Code.
+- IDEs and Tolls: Git, GitHub, GitLab, Android Studio, Visual Studio Code.
 
-- Database: MySQL and MongoDB.
+- Database: MySQL and MongoDB (basic).
 
 
 ### Contact 📌
