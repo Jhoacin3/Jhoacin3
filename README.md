@@ -4,12 +4,12 @@
 
 ### Skills 🎯
 
-- Programming languages ​​(Basic): PHP and  JS.
+- Programming languages ​​(Basic):JavaScript.
 - English level: Basic
   
-- Frameworks:  Laravel 8, Node.js, Express.js, Bootstrap 5, Vue.JS.
+- Frameworks (Basic): Node.js, Express.js Bootstrap 5.
   
-- IDEs and Tolls: Git, GitHub, GitLab, Android Studio, Visual Studio Code.
+- IDEs and Tolls: Git (Basic), GitHub, GitLab, Android Studio, Visual Studio Code.
 
 - Database: MySQL and MongoDB (basic).
 
