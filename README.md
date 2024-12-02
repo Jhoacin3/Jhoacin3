@@ -1,15 +1,16 @@
 ### Console.log("Hello, Welcome to my perfil and i´m a student") 👋
 
-- I´m a passionate web development student looking to learn and grow in the exciting world of web application development. My main focus is back-end web development.
+- I am a passionate student in back-end web development. My goal is to deepen my knowledge of server-side technologies and contribute to the creation of robust and scalable web applications. I am always eager to learn new tools and technologies to enhance my skills.
+
 
 ### Skills 🎯
 
 - Programming languages ​​(Basic):JavaScript.
-- English level: Basic
+- English Proficiency: Basic (A1 level) 
   
-- Frameworks (Basic): Node.js, Express.js Bootstrap 5.
+- Frameworks (Basic): Node.js, Express.js
   
-- IDEs and Tolls: Git (Basic), GitHub, GitLab, Android Studio, Visual Studio Code.
+- Version Control Tools: Git y GitHub (Basic)
 
 - Database: MySQL and MongoDB (basic).
 
