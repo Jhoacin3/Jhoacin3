@@ -1,4 +1,4 @@
-### Console.log("Hello, Welcome to my perfil and i´m a student") 👋
+### Console.log("Hello, Welcome to my perfil") 👋
 
 - I am a passionate student in back-end web development. My goal is to deepen my knowledge of server-side technologies and contribute to the creation of robust and scalable web applications. I am always eager to learn new tools and technologies to enhance my skills.
 
